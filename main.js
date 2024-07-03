@@ -1,4 +1,4 @@
-#! /usr/env/node
+#! /usr/bin/env node
 //Import the "inquirer module, which is a command line interface for Node.js"
 import inquirer from "inquirer";
 //Declare a constant "answers" and assign it to the result of inquirer.prompt function

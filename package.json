@@ -1,6 +1,6 @@
 {
-  "name": "word_counter_23",
-  "version": "1.0.0",
+  "name": "cli_word_counter_12",
+  "version": "1.0.5",
   "description": "",
   "main": "index.js",
   "type": "module",
